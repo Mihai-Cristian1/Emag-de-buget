@@ -1,2 +1,2 @@
 1111
-$${\color{blue}LET IT RIDE}$$
+$${\newline\color{blue}LET IT RIDE}$$
