@@ -1,5 +1,2 @@
-```diff
--1111
-@@LET IT RIDE@@
-
-
+1111
+$${\color{blue}LET IT RIDE}$$
